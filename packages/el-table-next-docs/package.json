@@ -15,6 +15,7 @@
     "shiki": "^0.10.0"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
     "@iconify/json": "^2.0.29",
     "@vue/theme": "^1.0.1",
     "el-table-next": "^1.0.1",
